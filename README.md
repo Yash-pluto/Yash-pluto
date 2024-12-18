@@ -12,12 +12,6 @@ Hi 👋, I'm Yash Vardhan<br>A passionate FullStack Developer from India.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvardhan3105&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhan3105&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashvardhan3105&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=yashvardhan3105&icon=3&color=10)](https://visitcount.itsvg.in)
 
