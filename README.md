@@ -47,7 +47,7 @@
 
 📊 GitHub Tracker
 <div align="center"> 
-<img src="https://streak-stats.demolab.com?user=yashvardhan3105&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats" height="180" /> 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yashvardhan3105&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 <br/> 
 <img src="https://img.shields.io/badge/⭐%20Starred%20Repos-5-FFD700?style=for-the-badge&labelColor=111827&color=FFD700" /> </div>
 
