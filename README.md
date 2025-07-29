@@ -49,12 +49,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashvardhan3105&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashvardhan3105&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=yashvardhan3105&theme=tokyonight&hide_border=true" height="170"/>
 </div>
+
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vardhan-yash3105/)
 - [GitHub](https://github.com/yashvardhan3105)
@@ -63,5 +64,6 @@
 ---
 
 <p align="center">
-  🔥 _Building quietly. Scaling silently. Focused always._ 🛠️
+  ⚙️ Focused on growth, one project at a time.
 </p>
+
