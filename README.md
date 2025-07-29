@@ -45,13 +45,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashvardhan3105&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=yashvardhan3105&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
+📊 GitHub Tracker
+<div align="center"> 
+<img src="https://streak-stats.demolab.com?user=yashvardhan3105&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats" height="180" /> 
+<br/> 
+<img src="https://img.shields.io/badge/⭐%20Starred%20Repos-5-FFD700?style=for-the-badge&labelColor=111827&color=FFD700" /> </div>
 
 ---
 
