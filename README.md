@@ -1,48 +1,60 @@
-<h1 align="center">Hey there, I'm Yash Vardhan 👋</h1>
+<h1 align="center">⚙️ Yash Vardhan | Full-Stack Dev in Progress</h1>
 
 <p align="center">
-  Full-Stack Developer in Progress · Engineering Student · Tech Enthusiast
+  Engineering Student · MERN Stack Enthusiast · Strategic Builder
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,html,css,vite,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,tailwind,vite,git,github,vscode&perline=6" />
 </div>
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
-🎓 Engineering student from Amity University Jharkhand  
-💻 Passionate about full-stack development  
-🧠 Building apps with React, Node, MongoDB & Tailwind  
-🚀 Always learning, always building  
-
----
-
-## 📌 Projects
-
-| Project                | Tech Stack                      | Link                                                                 |
-|------------------------|----------------------------------|----------------------------------------------------------------------|
-| 🛒 **E-Commerce Website** | MERN Stack + TailwindCSS         | [View Repo](https://github.com/yashvardhan3105/E-Commerce-Website)  |
-| 🌐 **Portfolio Site**     | HTML, CSS, JavaScript            | [View Repo](https://github.com/yashvardhan3105/Portfolio)           |
-| ⚔️ **Solo Leveling Tracker** | React + Node + MongoDB (WIP)     | [View Repo](https://github.com/yashvardhan3105/SoloLevelingTracker) |
+🎓 Engineering Student @ Amity University Jharkhand (Batch ‘29)  
+💻 Passionate about full-stack app development  
+🧠 Building with **React**, **MongoDB**, **Node**, and **Tailwind**  
+🎯 On a mission to become a corporate-grade full-stack dev
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Frontend:** React.js, Vite, TailwindCSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Auth:** JWT  
-- **Tools:** Git, GitHub, VS Code, Postman  
+| Category     | Tools |
+| ------------ | ----- |
+| **Languages** | JavaScript, TypeScript |
+| **Frontend**  | React, Vite, TailwindCSS |
+| **Backend**   | Node.js, Express |
+| **Database**  | MongoDB |
+| **Auth**      | JWT |
+| **Tools**     | Git, GitHub, VS Code, Postman |
 
 ---
 
-## 🌐 Let's Connect
+## 🚀 Featured Projects
+
+| Project                  | Status                                                                 | Tech Stack                   | Link                                                                 |
+|--------------------------|------------------------------------------------------------------------|------------------------------|----------------------------------------------------------------------|
+| 🛒 E-Commerce Website     | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | MERN + TailwindCSS           | [View Repo](https://github.com/yashvardhan3105/E-Commerce-Website)  |
+| ⚔️ Solo Leveling Tracker | ![Up Next](https://img.shields.io/badge/Status-Up_Next-blue)           | React + Node + MongoDB       | [View Repo](https://github.com/yashvardhan3105/SoloLevelingTracker) |
+| 🌐 Portfolio Site         | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey)     | React + TailwindCSS           | [View Repo](https://github.com/yashvardhan3105/Portfolio)           |
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashvardhan3105&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashvardhan3105&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/vardhan-yash3105/)
 - [GitHub](https://github.com/yashvardhan3105)
@@ -51,7 +63,5 @@
 ---
 
 <p align="center">
-  ⚙️ Focused on growth, one project at a time.
+  🔥 _Building quietly. Scaling silently. Focused always._ 🛠️
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashvardhan3105&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
