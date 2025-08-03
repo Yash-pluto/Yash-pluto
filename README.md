@@ -38,9 +38,10 @@
 
 | Project                  | Status                                                                 | Tech Stack                   | Link                                                                 |
 |--------------------------|------------------------------------------------------------------------|------------------------------|----------------------------------------------------------------------|
-| 🛒 E-Commerce Website     | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | MERN + TailwindCSS           | [View Repo](https://github.com/yashvardhan3105/E-Commerce-Website)  |
-| ⚔️ Solo Leveling Tracker | ![Up Next](https://img.shields.io/badge/Status-Up_Next-blue)           | React + Node + MongoDB       | [View Repo](https://github.com/yashvardhan3105/SoloLevelingTracker) |
-| 🌐 Portfolio Site         | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey)     | React + TailwindCSS           | [View Repo](https://github.com/yashvardhan3105/Portfolio)           |
+| 🛒 E-Commerce Website     | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | MERN + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/E-Commerce-Website)  |
+| ⚔️ Solo Leveling Tracker | ![Up Next](https://img.shields.io/badge/Status-Up_Next-blue)           | React + Node + MongoDB       | [View Repo](https://github.com/Yash-pluto/SoloLevelingTracker) |
+| 🌐 Portfolio Site         | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey)     | React + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/Portfolio)           |
+| 🔗  Shadowlinks   | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | React + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/shadowlinks)  |
 
 
 ---
@@ -56,7 +57,7 @@
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vardhan-yash3105/)
-- [GitHub](https://github.com/yashvardhan3105)
+- [GitHub](https://github.com/Yash-pluto)
 - 📧 vardhan.yash3105@gmail.com
 
 ---
