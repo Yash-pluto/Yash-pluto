@@ -50,7 +50,7 @@
 <div align="center"> 
 <img src="https://streak-stats.demolab.com?user=yashvardhan3105&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats"/>
 <br/> 
-<img src="https://img.shields.io/badge/⭐%20Starred%20Repos-6-FFD700?style=for-the-badge&labelColor=111827&color=FFD700" /> </div>
+<img src="https://img.shields.io/badge/⭐%20Starred%20Repos-7-FFD700?style=for-the-badge&labelColor=111827&color=FFD700" /> </div>
 
 ---
 
