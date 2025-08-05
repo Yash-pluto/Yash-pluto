@@ -36,12 +36,13 @@
 
 ## 🚀 Featured Projects
 
-| Project                  | Status                                                                 | Tech Stack                   | Link                                                                 |
-|--------------------------|------------------------------------------------------------------------|------------------------------|----------------------------------------------------------------------|
-| 🛒 E-Commerce Website     | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | MERN + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/E-Commerce-Website)  |
-| ⚔️ Solo Leveling Tracker | ![Up Next](https://img.shields.io/badge/Status-Up_Next-blue)           | React + Node + MongoDB       | [View Repo](https://github.com/Yash-pluto/SoloLevelingTracker) |
-| 🌐 Portfolio Site         | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey)     | React + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/Portfolio)           |
-| 🔗  Shadowlinks   | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | React + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/shadowlinks)  |
+| Project                  | Status                                                                 | Tech Stack                   | GitHub Repo                                                                 | Live Website |
+|--------------------------|------------------------------------------------------------------------|------------------------------|------------------------------------------------------------------------------|--------------|
+| 🛒 E-Commerce Website     | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | MERN + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/E-Commerce-Website)              | Coming Soon  |
+| ⚔️ Solo Leveling Tracker | ![Up Next](https://img.shields.io/badge/Status-Up_Next-blue)           | React + Node + MongoDB       | [View Repo](https://github.com/Yash-pluto/SoloLevelingTracker)             | Coming Soon  |
+| 🌐 Portfolio Site         | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey)     | React + TailwindCSS          | [View Repo](https://github.com/Yash-pluto/Portfolio)                        | Coming Soon  |
+| 🔗 ShadowLinks            | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | MERN + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/shadowlinks)                      | [Visit Site](https://shadowlinks.vercel.app) |
+
 
 
 ---
