@@ -40,7 +40,7 @@
 |--------------------------|------------------------------------------------------------------------|------------------------------|------------------------------------------------------------------------------|--------------|
 | 🛒 E-Commerce Website     | ![In Progress](https://img.shields.io/badge/Status-In_Progress-orange) | MERN + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/E-Commerce-Website)              | Coming Soon  |
 | ⚔️ Solo Leveling Tracker | ![Up Next](https://img.shields.io/badge/Status-Up_Next-blue)           | React + Node + MongoDB       | [View Repo](https://github.com/Yash-pluto/SoloLevelingTracker)             | Coming Soon  |
-| 🌐 Portfolio Site         |  ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen). | React + TailwindCSS          | [View Repo](https://github.com/Yash-pluto/Portfolio)                        | [Visit Site](https://yashpluto.vercel.app)  |
+| 🌐 Portfolio Site         |  ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen)| React + TailwindCSS          | [View Repo](https://github.com/Yash-pluto/Portfolio)                        | [Visit Site](https://yashpluto.vercel.app)  |
 | 🔗 ShadowLinks            | ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen) | MERN + TailwindCSS           | [View Repo](https://github.com/Yash-pluto/shadowlinks)                      | [Visit Site](https://shadowlinks.vercel.app) |
 
 
